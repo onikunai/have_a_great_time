@@ -1,24 +1,25 @@
 {
   "name": "have-a-great-time",
   "version": "1.0.0",
-  "description": "",
+  "description": "happy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/onikunai/dietitian.git"
+    "url": "git+https://github.com/onikunai/have_a_great_time.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/onikunai/dietitian/issues"
+    "url": "https://github.com/onikunai/have_a_great_time/issues"
   },
-  "homepage": "https://github.com/onikunai/dietitian#readme",
+  "homepage": "https://github.com/onikunai/have_a_great_time#readme",
   "dependencies": {
     "@line/bot-sdk": "^6.8.4",
+    "dialogflow": "^1.2.0",
     "express": "^4.17.1"
   }
 }
